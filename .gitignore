@@ -7,4 +7,11 @@ node/funcionarios/node_modules
 node/projeto/node_modules
 node_modules
 webpack/node_modules
+<<<<<<< HEAD
 react/crud/backend/node_modules
+=======
+react/exercicios/node_modules
+react/calculadora/node_modules
+react/crud/backend/node_modules
+react/crud/frontend/node_modules
+>>>>>>> 400fa9e2c9d726a21cdce6bcea0e32259df9df8f
